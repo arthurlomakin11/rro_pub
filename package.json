@@ -1,0 +1,27 @@
+{
+  "name": "artbox_server",
+  "version": "1.0.0",
+  "description": "Artbox Server",
+  "main": "rro.js",
+  "dependencies": {
+    "@types/windows-1251": "^0.1.19",
+    "artbox_db": "file:../db",
+    "axios": "^0.26.0",
+    "encoding": "^0.1.12",
+    "iconv": "^3.0.1",
+    "txml": "5.1.1",
+    "uuid": "^8.3.2",
+    "windows-1251": "^3.0.3",
+    "xml-escape": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/iconv": "^3.0.0",
+    "@types/node": "^13.13.4",
+    "@types/uuid": "^8.3.3",
+    "@types/xml-escape": "^1.1.0",
+    "typescript": "^4.5.3"
+  },
+  "scripts": {
+    "start": "node rro"
+  }
+}

@@ -1,0 +1,18 @@
+# Project exclude paths
+/functions/CurrentDate.js
+/DatabaseHelper.js
+/e-rro.js
+/generate_product_sell.js
+/interfaces.js
+/jkurwa_patch.js
+/prisma_types.js
+/functions/query.js
+/RequestHelper.js
+/rro.js
+/SigningHelper.js
+/xml-documents-generator.js
+/.idea
+/keyfop
+*.js
+!_*.js
+/node_modules/

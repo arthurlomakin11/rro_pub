@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+        "target": "ES2018",
+      	"allowSyntheticDefaultImports": true
+    },
+	"outdir":".",
+	"exclude": [
+        "wwwroot",
+        "node_modules"
+    ]
+}
